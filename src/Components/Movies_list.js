@@ -27,7 +27,7 @@ class Movies_list extends Component{
           {id:7,Title:'Scream',Description:'mdlmsldmlsmdms', Rating:'8.5', URL:'www.scream.com'},
           {id:8,Title:'No escape',Description:'mdlmsldmlsmdms', Rating:'10', URL:'www.noescape.com'}
               ] ,
-      movies_filter : [] ,
+      
 }
 this.run=this.run.bind(this);
 }
