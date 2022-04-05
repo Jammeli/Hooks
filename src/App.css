@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+div input{
+  margin: 2px;
+}
+select {
+  margin: 2px;
+}
